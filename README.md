@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR4cWNzcTdzNDd3amw0N2w3azJieWw5eW45bTNwcTV2aXl4ejk4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sercanparsanoglu&label=Profile%20views&color=0e75b6&style=flat" alt="sercanparsanoglu" /> </p>
 
-- 📫 How to reach me **sercanparsanoglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sercan Parsanoğlu</h1>
-<h3 align="center">Flutter Developer</h3>
+<h2 align="center">Flutter Developer 💻 </h2>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR4cWNzcTdzNDd3amw0N2w3azJieWw5eW45bTNwcTV2aXl4ejk4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sercanparsanoglu&label=Profile%20views&color=0e75b6&style=flat" alt="sercanparsanoglu" /> </p>
 
